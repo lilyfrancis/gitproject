@@ -27,5 +27,15 @@ li a {
     text-decoration: none;
     text-align: center;
     padding: 14px 16px;
-
+}
+.verticalmenu{
+background-color: blue;
+color: white;
+margin: 0;
+padding: 12px;
+}
+.verticalmenu a{
+    color: white;
+    padding: 12px;
+    text-decoration: none;
 }
